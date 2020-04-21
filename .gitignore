@@ -1,2 +1,2 @@
-nodemodules
-client/nodemodules
+# Dependency directories
+node_modules/
